@@ -1,6 +1,6 @@
 # Image Colorization with Convolutional Neural Network
 
-This assignment required us to solve the Image Colorization task as a pixel-wise classification problem. So we apply a CNN to colorize grayscale images using the PyTorch framework, and we examin how diffثrent factors such as Batch normalization, Skip Connection, ... affect the result of the learning process.
+This assignment required us to solve the Image Colorization task as a pixel-wise classification problem. So we apply a CNN to colorize grayscale images using the PyTorch framework, and we examin how different factors such as Batch normalization, Skip Connection, ... affect the result of the learning process.
 
 ### Dataset
 
